@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -151,4 +153,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
