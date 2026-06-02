@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Binary Search
 |  |
 | ------- |
