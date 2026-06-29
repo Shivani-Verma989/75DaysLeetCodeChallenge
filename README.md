@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 ## Queue
 |  |
 | ------- |
@@ -210,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
