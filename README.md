@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivani-Verma989/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
